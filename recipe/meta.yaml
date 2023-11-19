@@ -27,7 +27,7 @@ test:
   source_files:
     - tests
   commands:
-    - bash tests/all-in-one.sh
+    - PATH=$PWD:$PWD/tests:$PATH bash tests/all-in-one.sh
 
 about:
   home: https://github.com/DanielDent/git-annex-remote-rclone
