@@ -169,6 +169,5 @@ Feedstock Maintainers
 =====================
 
 * [@DanielDent](https://github.com/DanielDent/)
-* [@jwodder](https://github.com/jwodder/)
 * [@yarikoptic](https://github.com/yarikoptic/)
 
