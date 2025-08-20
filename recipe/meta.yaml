@@ -10,7 +10,7 @@ source:
   sha256: 6da12f46d46613cc5a539057052be7d8aa5259bd973ddff2d6ee460d34cd096c
 
 build:
-  number: 0
+  number: 1
   skip: true  # [not linux]
   script: mkdir -p $PREFIX/bin && cp git-annex-remote-rclone $PREFIX/bin
 
@@ -43,5 +43,4 @@ about:
 extra:
   recipe-maintainers:
     - DanielDent
-    - jwodder
     - yarikoptic
